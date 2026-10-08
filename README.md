@@ -38,17 +38,18 @@ Which customer segments, based on how recently, how often and how much they buy,
 | About To Sleep | Everyone else, a very small residual group|
 
 ## Key Findings
-- The analysis covers 27,454 customers and $2.69M in revenue, an average of about $98 per customer.
-- At Risk is the largest revenue segment: 33.7% of revenue from 23.5% of customers.
-- Champions are 14.4% of customers but 27.9% of revenue.
-- Champions and Loyal together bring in about 52.7% of revenue from about 35% of customers.
-- Potentially At Risk and Lost make up about 38% of customers but only about 11% of revenue.
+- The analysis covers 26,440 customers and $2,591,929.81M in revenue, an average of about $98.03 per customer.
+- At Risk is the largest revenue segment: 35.8% of revenue from 31.9% of customers.
+- Champions are 9.7% of customers but 19.4% of revenue.
+- Champions and Loyal together bring in about 38.3% of revenue from about % 24.4 of customers.
+- Potentially At Risk and Lost make up about 26% of customers but only about 12.1% of revenue.
   
 ## Recommendations
-1.	Run a targeted win-back pilot on high-spending At Risk customers. Keep a holdout group that gets no offer, and expand only if the extra revenue exceeds the cost of the offer.
-2.	Protect Champions with loyalty perks or early access.
-3.	Move Loyal customers toward Champion status with a spend-based incentive.
-4.	Keep spending on Lost and Potentially At Risk customers low, since their revenue is small.
+1. Run a targeted win-back pilot on high-spending At Risk customers. Keep a holdout group that gets no offer, and expand only if the extra revenue exceeds the cost of the offer.
+2.	At Risk customers average recency: 1311 days | Focus: Target recent drop-offs to maximize win-back conversion rates.
+3.	Protect Champions with loyalty perks or early access.
+4.	Move Loyal customers toward Champion status with a spend-based incentive.
+5.	Keep spending on Lost and Potentially At Risk customers low, since their revenue is small.
    
 ## Limitations
 - Revenue is historical. A segment’s past revenue shows who used to spend, not guaranteed future revenue.
