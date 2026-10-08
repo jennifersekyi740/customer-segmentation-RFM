@@ -1,7 +1,7 @@
 # Customer Segmentation  Using Recency Frequency Monetary (RFM) Analysis
 An RFM (Recency, Frequency, Monetary) customer segmentation built in BigQuery SQL and presented in an interactive Data Studio dashboard. The project shows which customer segments bring in the most revenue and where a retail business should focus its retention efforts.
 
-## Live Dashboard: [View Dashboard]()
+## Live Dashboard: [View Dashboard](https://datastudio.google.com/reporting/a0064c39-911c-42a5-a984-615ddbc2ee84)
 
 ## Business Question 
 Which customer segments, based on how recently, how often and how much they buy, bring in the most revenue?
@@ -38,7 +38,7 @@ Which customer segments, based on how recently, how often and how much they buy,
 | About To Sleep | Everyone else, a very small residual group|
 
 ## Key Findings
-- The analysis covers 26,440 customers and $2,591,929.81M in revenue, an average of about $98.03 per customer.
+- The analysis covers 26,440 customers and $2,591,929.81 in revenue, an average of about $98.03 per customer.
 - At Risk is the largest revenue segment: 35.8% of revenue from 31.9% of customers.
 - Champions are 9.7% of customers but 19.4% of revenue.
 - Champions and Loyal together bring in about 38.3% of revenue from about % 24.4 of customers.
