@@ -47,6 +47,7 @@ Which customer segments, based on how recently, how often and how much they buy,
 - Champions are 9.7% of customers but 19.4% of revenue.
 - Champions and Loyal together bring in about 38.3% of revenue from about 24.4 % of customers.
 - Potentially At Risk and Lost make up about 26% of customers but only about 12.1% of revenue.
+- Monthly revenue grew steadily from 2019 and accelerated sharply in 2026, with 22% month-over-month growth in September 2026.
   
 ## Recommendations
 1. Run a targeted win-back pilot on high-spending At Risk customers. Keep a holdout group that gets no offer, and expand only if the extra revenue exceeds the cost of the offer.
