@@ -4,8 +4,8 @@ An RFM (Recency, Frequency, Monetary) customer segmentation built in BigQuery SQ
 ## Live Dashboard: [View Dashboard](https://datastudio.google.com/reporting/a0064c39-911c-42a5-a984-615ddbc2ee84)
 
 ![Dashboard page 1](IMG_2347.jpeg)
-![Dashboard page 2](IMG_2348.jpeg)
-![Dashboard page 3](IMG_2349.jpeg)
+![Dashboard page 2](IMG_2350.jpeg)
+![Dashboard page 3](IMG_2351.jpeg)
 
 ## Business Question 
 Which customer segments, based on how recently, how often and how much they buy, bring in the most revenue?
