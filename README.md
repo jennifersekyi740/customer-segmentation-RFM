@@ -33,13 +33,13 @@ Which customer segments, based on how recently, how often and how much they buy,
 
 | Segment | Rule |
 |-| -|
-| Champion | Recency, frequency, monetary scores all 4 or higher|
-| Loyal | All three scores 3 or higher|
-| New Customers | Recency 4 or higher, frequency 2 or lower|
-| Potentially At Risk | Recency 3 or higher, with frequency or monetary 3 or higher|
-| At Risk | Recency 2 or lower, with frequency or monetary 3 or higher|
-| Lost | Recency, frequency, monetary scores all 2 or lower|
-| About To Sleep | Everyone else, a very small residual group|
+| Champion | Recency, frequency, monetary scores all 4 or higher.|
+| Loyal | All three scores 3 or higher.|
+| New Customers | Recency 4 or higher, frequency 2 or lower.|
+| Potentially At Risk | Recency 3 or higher, with frequency or monetary 3 or higher.|
+| At Risk | Recency 2 or lower, with frequency or monetary 3 or higher.|
+| Lost | Recency, frequency, monetary scores all 2 or lower.|
+| About To Sleep | Everyone else, a very small residual group.|
 
 ## Key Findings
 - The analysis covers 26,440 customers and $2,591,929.81 in revenue, an average of about $98.03 per customer.
