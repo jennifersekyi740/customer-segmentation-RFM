@@ -45,7 +45,7 @@ Which customer segments, based on how recently, how often and how much they buy,
 - The analysis covers 26,440 customers and $2,591,929.81 in revenue, an average of about $98.03 per customer.
 - At Risk is the largest revenue segment: 35.8% of revenue from 31.9% of customers.
 - Champions are 9.7% of customers but 19.4% of revenue.
-- Champions and Loyal together bring in about 38.3% of revenue from about % 24.4 of customers.
+- Champions and Loyal together bring in about 38.3% of revenue from about 24.4 % of customers.
 - Potentially At Risk and Lost make up about 26% of customers but only about 12.1% of revenue.
   
 ## Recommendations
